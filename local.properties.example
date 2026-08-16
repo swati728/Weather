@@ -1,0 +1,5 @@
+# Copy this to local.properties (same folder) and fill in real values.
+# local.properties is gitignored -- never commit real keys.
+
+sdk.dir=/path/to/your/Android/sdk
+WEATHER_API_KEY=your_weatherapi_com_key_here
